@@ -1,0 +1,16 @@
+Package: ScalpelTools
+Type: Package
+Date: 2016-05-15
+Title: Paquete para Scalpel
+Version: 0.1.0
+Author: Pablo Román-Naranjo Varela <pablo.roman@genyo.es>
+Maintainer: Pablo Román-Naranjo Varela <pablo.roman@genyo.es>
+Description: Este paquete contiene funciones para el manejo de los datos generados por Scalpel 
+License: GPL-3
+Imports: 
+    reshape (>= 0.8.6),
+    ggplot2 (>= 2.2.1),
+    xlsx (>= 0.5.7)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
